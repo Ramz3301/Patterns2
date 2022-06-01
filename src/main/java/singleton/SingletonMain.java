@@ -1,8 +1,6 @@
 package singleton;
 
-import singleton.SimpleSingleton;
-
-public class MainApp {
+public class SingletonMain {
     public static void main(String[] args) {
 
         // Конструктор вызовется один раз
